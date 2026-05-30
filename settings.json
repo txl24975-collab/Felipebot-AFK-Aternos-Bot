@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serverdepruebarz.aternos.me
-",
+    "ip": "serverdepruebarz.aternos.me",
     "port": 18298,
     "version": "",
     "try-creative": false
